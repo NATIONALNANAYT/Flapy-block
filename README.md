@@ -2,4 +2,4 @@
 flapy block alpha test coming soon!
 have you wanted to play flapy bird 
 in your browser?
-well now you can 
+well now you can with a twist!
